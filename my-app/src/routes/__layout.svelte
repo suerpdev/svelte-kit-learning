@@ -3,5 +3,9 @@
 </script>
 <!-- Try some classes here -->
 <h1 class="uppercase text-indigo-500">
-  Hello People of Earth
+ <nav>
+  <!--do later lmao-->
+ </nav>
 </h1>
+
+<slot></slot>

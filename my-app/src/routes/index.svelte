@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<main>
+<div class="bg-amber-600 flex-auto">
+<h1 class="text-center backdrop-blur-md my-5 font-semibold">Testing Gamer!!!</h1>
+</div>
+</main>
